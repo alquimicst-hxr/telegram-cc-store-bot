@@ -12,10 +12,10 @@ load_dotenv()
 # ============================================================
 # TELEGRAM
 # ============================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("8843258561:AAE5KjeWx5syJJ3DvPyOX_O0nUrttIytzZU", "")
 OWNER_ID = int(os.getenv("OWNER_ID", "7848571699"))
 CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@haxorstorecc")
-CHANNEL_ID = os.getenv("CHANNEL_ID", "")
+CHANNEL_ID = os.getenv("CHANNEL_ID", "-1004292730971")
 SUPPORT_URL = os.getenv("SUPPORT_URL", "https://t.me/haxorsuporte")
 
 # ============================================================

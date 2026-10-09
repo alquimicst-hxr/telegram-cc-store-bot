@@ -68,7 +68,7 @@ cp .env.example .env
 Edite `.env` com seus dados:
 
 ```env
-BOT_TOKEN=seu_token_aqui
+AAE5KjeWx5syJJ3DvPyOX_O0nUrttIytzZU⁶i
 OWNER_ID=7848571699
 CHANNEL_USERNAME=@haxorstorecc
 CHANNEL_ID=-1001234567890
@@ -111,7 +111,7 @@ telegram-cc-store-bot/
 
 | Variável | Descrição | Exemplo |
 |----------|-----------|----------|
-| `BOT_TOKEN` | Token do bot no Telegram | `123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11` |
+| `BOT_8843258561:AAE5KjeWx5syJJ3DvPyOX_O0nUrttIytzZUTOKEN` | Token do bot no Telegram | `123456:ABC-DEF1234ghIkl-zyx57W2v23ew11` |
 | `OWNER_ID` | ID do dono do bot | `7848571699` |
 | `CHANNEL_USERNAME` | Username do canal de verificação | `@haxorstorecc` |
 | `CHANNEL_ID` | ID numérico do canal | `-1001234567890` |
